@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bajranking55
+- 👋 Hi, I’m divyansh tiwari
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... cyber security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning  ui/ux design or frontend
+- 
+  
+
 
 <!---
 bajranking55/bajranking55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
